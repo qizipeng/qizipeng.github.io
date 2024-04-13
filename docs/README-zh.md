@@ -18,7 +18,7 @@ AcadHomepage
 
 一些例子：
 
-- [作者的个人主页](https://KyanChen.github.io/)
+- [作者的个人主页](https://qizipeng.github.io/)
 
 ## 主要特点
 
