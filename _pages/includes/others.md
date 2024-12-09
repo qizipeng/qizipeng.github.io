@@ -14,4 +14,7 @@
 - ...
  
 # 👀 Intership Experience
+- Huawei, 2012 Lab. 07-09, 2023
+- Baidu, VIS. 10-12, 2023
+- Baidu Research. 01-07, 2024
 
