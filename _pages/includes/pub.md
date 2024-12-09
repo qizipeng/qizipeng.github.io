@@ -1,32 +1,25 @@
 
 # 📝 Publications
 
-My full paper list can be found at <a href='https://scholar.google.com/citations?user=KMEs58kAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FKyanChen%2FKyanChen.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My full paper list can be found at <a href='https://scholar.google.com/citations?user=KMEs58kAAAAJ'><img src="https://img.shields.io/badge/Google-Scholar-green"></a>.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/2024_TTP.png"><img src='image/2024_TTP.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/noise.png"><img src='image/2024_TTP.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[//]: # (<b>Time Travelling Pixels: Bitemporal Features Integration with Foundation Model for Remote Sensing Image Change Detection</b><br>)
+<b>Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization</b><br>
 
-[//]: # (<i>Arxiv, 2024</i><br>)
+<i>Arxiv, 2024</i><br>
 
-[//]: # (<b>Keyan Chen</b>, Chenyang Liu, Wenyuan Li, Zili Liu, Hao Chen, Haotian Zhang, Zhengxia Zou, and Zhenwei Shi<br>)
+<b>Zipeng Qi</b>, Lichen Bai, Haoyi Xiong, Zeke Xie<br>
 
-[//]: # ([<a href="https://arxiv.org/abs/2312.16202">Arxiv</a>] [<a href="https://github.com/KyanChen/TTP">Github</a>] [<a href="https://kyanchen.github.io/TTP/">Page</a>] [<a href="https://huggingface.co/spaces/KyanChen/TTP">Demo</a>]<br>)
+[<a href="[https://arxiv.org/abs/2312.16202](https://arxiv.org/abs/2407.14041)">Arxiv</a>] 
+<br>
 
-[//]: # (<div style="text-align: justify">)
+<div style="text-align: justify">
 
-[//]: # (We integrate the latent knowledge of the SAM foundation model into change detection, effectively addressing the domain shift in general knowledge transfer and the challenge of expressing homogeneous and heterogeneous characteristics of multi-temporal images.)
-
-[//]: # (</div>)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (</div>)
-
+We propose the Noise Inversion Similarity to measure the quality of the initial noise for diffusion models. We design the initial Noise selection algorithm and the initial Noise optimization algorithm to pick or update the random initial noise to a better one.
 
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/2024_RSPrompter.png"><img src='image/2024_RSPrompter.png' alt="sym" width="100%"></a></div></div>)
