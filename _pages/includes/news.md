@@ -1,5 +1,4 @@
 # 🔥 News
-- *2024.05*: Two papers are submitted to **<font color="red">Nips</font>** in 2024
 - *2024.07*: A paper is accepted by **<font color="red">ECCV</font>** in 2024
 - *2024.04*: Three papers are accepted by **<font color="red">IGRASS</font>** in 2024
 - *2023.12*: Two papers are accepted by **<font color="red">TGRS</font>** (**IF=8.2**) in 2023.
