@@ -4,6 +4,11 @@
 - *2018.09 - 2020.09*, M.S. in Deparment of computer science and technology , Beihang University, China.
 - *2014.09 - 2018.06*, B.S. in Deparment of computer science and technology, HEBUT, China.
 
+# 👀 Intership Experience
+- Huawei, 2012 Lab. 07-09, 2023
+- Baidu, VIS. 10-12, 2023
+- Baidu Research. 01-07, 2024
+
 # 💻 Academic Service
 - Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
@@ -13,8 +18,5 @@
 - Reviewer for Remote Sensing (RS)
 - ...
  
-# 👀 Intership Experience
-- Huawei, 2012 Lab. 07-09, 2023
-- Baidu, VIS. 10-12, 2023
-- Baidu Research. 01-07, 2024
+
 
