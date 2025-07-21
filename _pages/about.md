@@ -1,22 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+I am currently a Senior Engineer at Baidu Inc. Prior to this, I received my Ph.D. from Beihang University (BUAA) in June 2025, under the supervision of Prof. Shizhenwei. During my doctoral studies, I also interned at Baidu, where I had the opportunity to work closely with Dr. Guoxi Huang and Prof. Zeke Xie.
 
-<span class='anchor' id='about-me'></span>
-{% include_relative includes/intro.md %}
-
-If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
-
-{% include_relative includes/news.md %}
-
-{% include_relative includes/pub.md %}
-
-{% include_relative includes/honers.md %}
-
-{% include_relative includes/others.md %}
+My research interests lie primarily in video and image generation, as well as video and image editing. I am actively seeking motivated interns to collaborate on research projects in these areas.
