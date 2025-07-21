@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.07 - Present*, Joined VIS, Baidu Inc. as a Senior Engineer.
+- *2025.07 - Present*, Senior Engineer, VIS, Baidu Inc.
 
 - *2025.06*, Graduated from Beihang University (BUAA) with a Ph.D. degree.
 
