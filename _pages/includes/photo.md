@@ -23,6 +23,9 @@ Here's a little photo viewer of my lovely cat (麻团).
   height: 200px;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+
+  object-fit: contain;       /* 保持图片比例，完整显示 */
+  background-color: #f0f0f0; /* 背景色，防止空白看起来突兀 */
 }
 .carousel-dots {
   margin-top: 10px;
