@@ -17,4 +17,6 @@ redirect_from:
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
+
+{% include_relative includes/photo.md %}
 <span class='anchor' id='end-page'></span>
