@@ -1,3 +1,9 @@
-I am currently a Senior Engineer at Baidu Inc. Prior to this, I received my Ph.D. from Beihang University (BUAA) in June 2025, under the supervision of Prof. Shizhenwei. During my doctoral studies, I also interned at Baidu, where I had the opportunity to work closely with Dr. Guoxi Huang and Prof. Zeke Xie.
-
-My research interests lie primarily in video and image generation, as well as video and image editing. I am actively seeking motivated interns to collaborate on research projects in these areas.
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
