@@ -1,6 +1,6 @@
 # 🐱 My Cat
 
-Here's a little photo viewer of my lovely cat named 麻团😄.
+Here’s a little photo viewer of my lovely cat, 麻团 😄.
 
 <div class="carousel-container">
   <img id="cat-image" src="images/matuan1.jpg" class="carousel-image" alt="My cat photo">
