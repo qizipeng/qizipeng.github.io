@@ -2,6 +2,8 @@ I am currently a Senior Engineer at Baidu Inc. Prior to this, I earned my Ph.D. 
 
 My research interests lie primarily in video and image generation, as well as video and image editing. <span style="color:red"> I am currently looking for highly motivated interns to join ongoing research projects. If you're passionate about these topics, feel free to reach out!</span>. Email to qizipeng at baidu.com.
 
+🤝 Academic collaborations are also welcome.
+
 ### Research Internship Topics (including but not limited to):
 
 - Foundational models for video generation  
