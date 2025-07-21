@@ -9,7 +9,7 @@
 
 - *2024.07*, One paper accepted by ECCV.
 
-- *2024.07*, One paper accepted by TGRS, and Three papers accepted by IGARSS.
+- *2024.07*, One paper accepted by TGRS, and three papers accepted by IGARSS.
 
 - *2023.10*, One paper accepted by TGRS.
 
