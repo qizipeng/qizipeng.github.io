@@ -8,6 +8,6 @@ My research interests lie primarily in video and image generation, as well as vi
 
 - Foundational models for video generation  
 - Long-form video generation  
-- Video editing, such as relighting, multi-shot concatenation, etc.  
+- Video editing, such as relighting, customized generation, etc.  
 - Acceleration of generative models  
 - Unified architectures for video understanding and generation.
