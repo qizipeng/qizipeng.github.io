@@ -17,7 +17,7 @@ Yongchang Wu, **<font color="#C00000">Zipeng Qi</font>**, Zhenwei Shi, Zhengxia 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/SemanticSplatting.png"><img src='images/SemanticSplatting.png' alt="SemanticSplatting" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class=PaperTitle href="https://arxiv.org/pdf/2412.05969?"><b>BlockGaussian: Efficient Semantic Splatting for Remote Sensing
+<a class=PaperTitle href="https://arxiv.org/pdf/2412.05969?"><b>Efficient Semantic Splatting for Remote Sensing
 Multi-view Segmentation</b></a> \\
  *TGRS, 2025* \\
 **<font color="#C00000">Zipeng Qi</font>**, Hao chen, Haotian Zhang, Zhengxia Zou and Zhenwei Shi \\
