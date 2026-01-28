@@ -1,6 +1,18 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/BNN.png"><img src='images/BNN.png' alt="BNN" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://openreview.net/pdf?id=kdzKVcwkjr"><b>Towards Diverse Image Enhancement with Uncertainty Modeling
+</b></a> \\
+ *AAAI, 2025* \\
+Guoxi Huang, **<font color="#C00000">Zipeng Qi</font>**, Ruirui Lin, Qirui Yang, David Bull, Nantheera Anantrasirichai \\
+[<a href="https://openreview.net/pdf?id=kdzKVcwkjr">PDF</a>]
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/BlockGaussian.png"><img src='images/BlockGaussian.png' alt="BlockGaussian" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,20 +49,6 @@ Lichen Bai, Shitong Shao, Zikai Zhou, **<font color="#C00000">Zipeng Qi</font>**
 [<a href="https://openreview.net/pdf?id=MKvQH1ekeY">PDF</a>]
 </div>
 </div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/BNN.png"><img src='images/BNN.png' alt="BNN" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a class=PaperTitle href="https://arxiv.org/pdf/2501.14265?"><b>Bayesian Neural Networks for One-to-Many Mapping in Image Enhancement
-</b></a> \\
- *Arxiv, 2025* \\
-Guoxi Huang, Nantheera Anantrasirichai, Fei Ye, **<font color="#C00000">Zipeng Qi</font>**, RuiRui Lin, Qirui Yang, David Bull \\
-[<a href="https://arxiv.org/pdf/2501.14265?">PDF</a>]
-</div>
-</div>
-
 
 
 

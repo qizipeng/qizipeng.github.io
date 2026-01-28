@@ -1,4 +1,6 @@
 # 🔥 News
+- *2025.11  One paper accepted to AAAI.
+
 - *2025.07 - Present*, Senior Engineer, VIS, Baidu Inc.
 
 - *2025.06*, Graduated from Beihang University (BUAA) with a Ph.D. degree.
