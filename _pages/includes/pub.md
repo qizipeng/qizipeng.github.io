@@ -87,5 +87,26 @@ Sensing Image Segmentation
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/3D.jpg"><img src='images/3D.jpg' alt="3D" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
 
+<a class=PaperTitle href="https://www.mdpi.com/2072-4292/14/17/4333"><b>3D Reconstruction of Remote Sensing Mountain Areas with TSDF-Based Neural Networks
+</b></a> \\
+ *Remote Sensing, 2022* \\
+**<font color="#C00000">Zipeng Qi</font>**, Zhengxia Zou, Hao Chen andZhenwei Shi \\
+[<a href="https://www.mdpi.com/2072-4292/14/17/4333">PDF</a>]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/RIT.png"><img src='images/RIT.png' alt="RIT" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/pdf/2103.00208"><b>Remote Sensing Image Change Detection with
+Transformers
+</b></a> \\
+ *TGRS, 2022* \\
+ Hao Chen, **<font color="#C00000">Zipeng Qi</font>**, and Zhenwei Shi \\
+[<a href="https://arxiv.org/pdf/2103.00208">PDF</a>]
+</div>
+</div>
 
