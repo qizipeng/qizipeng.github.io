@@ -75,5 +75,17 @@ Lichen Bai, Shitong Shao, Zikai Zhou, **<font color="#C00000">Zipeng Qi</font>**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/IRT.png"><img src='images/IRT.png' alt="IRT" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/pdf/2303.08401"><b>Implicit Ray-Transformers for Multi-view Remote
+Sensing Image Segmentation
+</b></a> \\
+ *TGRS, 2023* \\
+**<font color="#C00000">Zipeng Qi</font>**, Hao Chen, Chenyang Liu, Zhenwei Shi and Zhengxia Zou \\
+[<a href="https://arxiv.org/pdf/2303.08401">PDF</a>]
+</div>
+</div>
+
 
 
