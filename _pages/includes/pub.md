@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/underwater-sp.png"><img src='images/underwater-sp.png' alt="underwater-sp" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/underwater_sp.png"><img src='images/underwater_sp.png' alt="underwater_sp" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/pdf/2509.17789"><b>From Restoration to Reconstruction: Rethinking 3D Gaussian Splatting for Underwater Scenes
