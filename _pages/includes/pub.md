@@ -43,6 +43,17 @@ Multi-view Segmentation</b></a> \\
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/layered.png"><img src='images/layered.png' alt="Layered" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<a class=PaperTitle href="https://arxiv.org/pdf/2311.18435"><b>Layered Rendering Diffusion Model for Controllable
+Zero-Shot Image Synthesis
+</b></a> \\
+ *ECCV, 2025* \\
+ **<font color="#C00000">Zipeng Qi</font>**, Guoxi Huang, Cheyang Liu, Fei Ye \\
+[<a href="https://arxiv.org/pdf/2311.18435">PDF</a>]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/zigzag.png"><img src='images/zigzag.png' alt="Zigzag" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <a class=PaperTitle href="https://openreview.net/pdf?id=MKvQH1ekeY"><b>Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection
