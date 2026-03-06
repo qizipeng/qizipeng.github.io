@@ -6,7 +6,7 @@
 <a class=PaperTitle href="https://arxiv.org/pdf/2509.17789"><b>From Restoration to Reconstruction: Rethinking 3D Gaussian Splatting for Underwater Scenes
 </b></a> \\
  *Arxiv, 2025* \\
-Guoxi Huang, Haoran Wang1, **<font color="#C00000">Zipeng Qi</font>**, Wenjun Lu,David Bull, Nantheera Anantrasirichai\\
+Guoxi Huang, Haoran Wang, **<font color="#C00000">Zipeng Qi</font>**, Wenjun Lu,David Bull, Nantheera Anantrasirichai\\
 [<a href="https://arxiv.org/pdf/2509.17789">PDF</a>]
 </div>
 </div>
@@ -16,7 +16,7 @@ Guoxi Huang, Haoran Wang1, **<font color="#C00000">Zipeng Qi</font>**, Wenjun Lu
 <a class=PaperTitle href="https://openreview.net/pdf?id=kdzKVcwkjr"><b>Towards Diverse Image Enhancement with Uncertainty Modeling
 </b></a> \\
  *AAAI, 2025* \\
-Guoxi Huang, **<font color="#C00000">Zipeng Qi</font>**, Ruirui Lin, Qirui Yang, David Bull, Nantheera Anantrasirichai \\
+Guoxi Huang, Qirui Yang, **<font color="#C00000">Zipeng Qi</font>**, RuiRui Lin, David Bull, Nantheera Anantrasirichai \\
 [<a href="https://openreview.net/pdf?id=kdzKVcwkjr">PDF</a>]
 </div>
 </div>
