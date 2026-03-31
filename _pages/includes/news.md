@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.03*  Winner of the IEEE Geoscience and Remote Sensing Society (GRSS) High Impact Paper Award.
+
 - *2026.03*  Two papers accepted at ICME.
 
 - *2025.11*  One paper accepted at AAAI.
