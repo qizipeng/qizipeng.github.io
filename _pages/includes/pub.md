@@ -2,7 +2,7 @@
 # 📝 Publications 
 <p><sup>*</sup> Equal contribution.</p>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/mvid.png"><img src='images/GCC.png' alt="GCC" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/mvid.png"><img src='images/mvid.png' alt="GCC" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <a class=PaperTitle href="https://arxiv.org/pdf/2603.21299"><b>Identity-Consistent Video Generation under Large Facial-Angle Variations
 </b></a> \\
