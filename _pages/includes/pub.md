@@ -1,6 +1,26 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/GCC.png"><img src='images/GCC.png' alt="GCC" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<a class=PaperTitle href="https://arxiv.org/pdf/2412.12594?"><b>A Simple and Efficient Baseline for Zero-Shot Generative Classification
+</b></a> \\
+ *ICME, 2026* \\
+**<font color="#C00000">Zipeng Qi</font>**, Buhua Liu, Shiyan Zhang, Bao Li, Zhiqiang Xu, Haoyi Xiong and Zeke Xie \\
+[<a href="https://arxiv.org/pdf/2412.12594?">PDF</a>]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/NoiseOptimization.png"><img src='images/NoiseOptimization.png' alt="NoiseOptimization" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<a class=PaperTitle href="https://arxiv.org/pdf/2407.14041"><b>Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization
+</b></a> \\
+ *ICME, 2026* \\
+**<font color="#C00000">Zipeng Qi</font>**, Lichen Bai, Haoyi Xiong, Zeke Xie \\
+[<a href="https://arxiv.org/pdf/2407.14041">PDF</a>]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/underwater_sp.png"><img src='images/underwater_sp.png' alt="underwater_sp" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <a class=PaperTitle href="https://arxiv.org/pdf/2509.17789"><b>From Restoration to Reconstruction: Rethinking 3D Gaussian Splatting for Underwater Scenes
@@ -61,26 +81,6 @@ Zero-Shot Image Synthesis
  *ICLR, 2025* \\
 Lichen Bai, Shitong Shao, Zikai Zhou, **<font color="#C00000">Zipeng Qi</font>**, Zhiqiang Xu, Haoyi Xiong, Zeke Xie \\
 [<a href="https://openreview.net/pdf?id=MKvQH1ekeY">PDF</a>]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/GCC.png"><img src='images/GCC.png' alt="GCC" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-<a class=PaperTitle href="https://arxiv.org/pdf/2412.12594?"><b>A Simple and Efficient Baseline for Zero-Shot Generative Classification
-</b></a> \\
- *Arxiv, 2024* \\
-**<font color="#C00000">Zipeng Qi</font>**, Buhua Liu, Shiyan Zhang, Bao Li, Zhiqiang Xu, Haoyi Xiong and Zeke Xie \\
-[<a href="https://arxiv.org/pdf/2412.12594?">PDF</a>]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/NoiseOptimization.png"><img src='images/NoiseOptimization.png' alt="NoiseOptimization" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-<a class=PaperTitle href="https://arxiv.org/pdf/2407.14041"><b>Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization
-</b></a> \\
- *Arxiv, 2024* \\
-**<font color="#C00000">Zipeng Qi</font>**, Guoxi Huang, Chenyang Liu and Fei Ye \\
-[<a href="https://arxiv.org/pdf/2407.14041">PDF</a>]
 </div>
 </div>
 
