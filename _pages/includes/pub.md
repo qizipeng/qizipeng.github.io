@@ -1,5 +1,17 @@
 
 # 📝 Publications 
+<p><sup>*</sup> Equal contribution.</p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/mvid.png"><img src='images/GCC.png' alt="GCC" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<a class=PaperTitle href="https://arxiv.org/pdf/2603.21299"><b>Identity-Consistent Video Generation under Large Facial-Angle Variations
+</b></a> \\
+ *Arxiv, 2026* \\
+ Bin Hu<sup>*</sup>, **<font color="#C00000">Zipeng Qi<sup>*</sup></font>**, Guoxi Huang, Zunnan Xu, Ruicheng Zhang, Chongjie Ye, Jun Zhou, Xiu Li, Jingdong Wang \\
+[<a href="https://arxiv.org/pdf/2603.21299">PDF</a>]
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/GCC.png"><img src='images/GCC.png' alt="GCC" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,7 +73,6 @@ Multi-view Segmentation</b></a> \\
 [<a href="https://arxiv.org/pdf/2412.05969?">PDF</a>]
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/layered.png"><img src='images/layered.png' alt="Layered" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
