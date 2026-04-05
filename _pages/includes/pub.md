@@ -18,7 +18,7 @@
 <a class=PaperTitle href="https://arxiv.org/pdf/2412.12594?"><b>A Simple and Efficient Baseline for Zero-Shot Generative Classification
 </b></a> \\
  *ICME, 2026* \\
-**<font color="#C00000">Zipeng Qi</font>**, Buhua Liu, Shiyan Zhang, Bao Li, Zhiqiang Xu, Haoyi Xiong and Zeke Xie \\
+**<font color="#C00000">Zipeng Qi<sup>*</sup></font>**, Buhua Liu<sup>*</sup>, Shiyan Zhang, Bao Li, Zhiqiang Xu, Haoyi Xiong and Zeke Xie \\
 [<a href="https://arxiv.org/pdf/2412.12594?">PDF</a>]
 </div>
 </div>
