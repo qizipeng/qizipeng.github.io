@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.11*  One paper accepted at TIP.
+
 - *2026.09*  One paper accepted at Foundamental Research.
 
 - *2026.03*  Winner of the IEEE Geoscience and Remote Sensing Society (GRSS) High Impact Paper Award.
