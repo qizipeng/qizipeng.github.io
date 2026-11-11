@@ -13,17 +13,15 @@ Yongchang Wu, **<font color="#C00000">Zipeng Qi</font>**, Zhenwei Shi, Zhengxia 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/InterGS.pdf"><img src='images/InterGS.pdf' alt="InterRSGaussian" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/InterGS.png"><img src='images/InterGS.png' alt="InterRSGaussian" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <a class=PaperTitle href=""><b>InterRSGaussian: Interactive Multi-view Instance Segmentation for 3D
 Remote Sensing Scenes</b></a> \\
- *TIP, 2026* \\
+ *Foundamental Research, 2026* \\
 **<font color="#C00000">Zipeng Qi</font>**, Zhengxia Zou, Zhenwei Shi \\
 [<a href="">PDF</a>]
 </div>
 </div>
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/mvid.png"><img src='images/mvid.png' alt="mvid" width="100%"></a></div></div>
